@@ -1,7 +1,6 @@
 from typing import Any, Dict
 
 import yaml
-
 from pwc_pjt.utils.path import (
     DATA_CONFIG_PATH,
     FEATURE_CONFIG_PATH,

@@ -1,7 +1,7 @@
 [project]
-name = "pwc-project"
+name = "my-project"
 version = "1.0.0"
-description = "pwc project template"
+description = "pwc starter guide onboarding"
 requires-python = ">=3.11,<3.12"
 readme = "README.md"
 authors = [
